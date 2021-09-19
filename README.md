@@ -1,6 +1,6 @@
 ## Summary
 
-This repository contains all of the notebooks used by [Elena Burbyga](https://github.com/ElenaBurbyga) [John Susnik](https://github.com/jsusnik) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Data Science Mid-term project regarding flight predictions. 
+This repository contains all of the notebooks used by [Elena Burbyga](https://github.com/ElenaBurbyga) and [John Susnik](https://github.com/jsusnik) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Data Science Mid-term project regarding flight predictions. 
 
 ## Table of Contents
 * [John](/john)
