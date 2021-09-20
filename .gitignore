@@ -29,3 +29,4 @@ john/data_archive/passengers_jan_18.csv
 john/data_archive/passengers_jan_19.csv
 john/passengers_jan-dec_18-19.csv
 john/passengers_jan-dec_18-19_raw.csv
+*.csv
