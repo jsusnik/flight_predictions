@@ -6,7 +6,7 @@ This repository contains all of the notebooks used by [Elena Burbyga](https://gi
 * [John](/john)
     * exploratory_analysis - questions assigned, answers are written as comments currently, actual code is dispersed throughout (Sept 19, 2021)
     * feature_engineering - contains feature editing; adding/removing columns. this document needs to be cleaned up (Sept 19, 2021)
-    * 
+    * delta_air_models - final working model for this project
    
    
    
