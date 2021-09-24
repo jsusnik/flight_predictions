@@ -16,3 +16,5 @@ This repository contains all of the notebooks used by [Elena Burbyga](https://gi
     * creating_weather_csv_file - 
     * getting_the_sample - 
     * creating_weather_and_day_of_the_week - 
+    * Visuals
+    * creating_holiday_column
